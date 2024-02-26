@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\William\\source\\repos\\TestMilerCarRental\\TestMilerCarRental\\TestMilesCarRental.csproj": {}
+    "C:\\Users\\William\\source\\repos\\testPerSoft\\TestMilerCarRental\\TestMilesCarRental.csproj": {}
   },
   "projects": {
-    "C:\\Users\\William\\source\\repos\\TestMilerCarRental\\Domain\\Domain.csproj": {
+    "C:\\Users\\William\\source\\repos\\testPerSoft\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\William\\source\\repos\\TestMilerCarRental\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\William\\source\\repos\\testPerSoft\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\William\\source\\repos\\TestMilerCarRental\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\William\\source\\repos\\testPerSoft\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\William\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\William\\source\\repos\\TestMilerCarRental\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\William\\source\\repos\\testPerSoft\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\William\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -59,14 +59,14 @@
         }
       }
     },
-    "C:\\Users\\William\\source\\repos\\TestMilerCarRental\\Infraestructure\\Infraestructure.csproj": {
+    "C:\\Users\\William\\source\\repos\\testPerSoft\\Infraestructure\\Infraestructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\William\\source\\repos\\TestMilerCarRental\\Infraestructure\\Infraestructure.csproj",
+        "projectUniqueName": "C:\\Users\\William\\source\\repos\\testPerSoft\\Infraestructure\\Infraestructure.csproj",
         "projectName": "Infraestructure",
-        "projectPath": "C:\\Users\\William\\source\\repos\\TestMilerCarRental\\Infraestructure\\Infraestructure.csproj",
+        "projectPath": "C:\\Users\\William\\source\\repos\\testPerSoft\\Infraestructure\\Infraestructure.csproj",
         "packagesPath": "C:\\Users\\William\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\William\\source\\repos\\TestMilerCarRental\\Infraestructure\\obj\\",
+        "outputPath": "C:\\Users\\William\\source\\repos\\testPerSoft\\Infraestructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\William\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -83,8 +83,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\William\\source\\repos\\TestMilerCarRental\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\William\\source\\repos\\TestMilerCarRental\\Domain\\Domain.csproj"
+              "C:\\Users\\William\\source\\repos\\testPerSoft\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\William\\source\\repos\\testPerSoft\\Domain\\Domain.csproj"
               }
             }
           }
@@ -128,14 +128,14 @@
         }
       }
     },
-    "C:\\Users\\William\\source\\repos\\TestMilerCarRental\\Service\\Service.csproj": {
+    "C:\\Users\\William\\source\\repos\\testPerSoft\\Service\\Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\William\\source\\repos\\TestMilerCarRental\\Service\\Service.csproj",
+        "projectUniqueName": "C:\\Users\\William\\source\\repos\\testPerSoft\\Service\\Service.csproj",
         "projectName": "Service",
-        "projectPath": "C:\\Users\\William\\source\\repos\\TestMilerCarRental\\Service\\Service.csproj",
+        "projectPath": "C:\\Users\\William\\source\\repos\\testPerSoft\\Service\\Service.csproj",
         "packagesPath": "C:\\Users\\William\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\William\\source\\repos\\TestMilerCarRental\\Service\\obj\\",
+        "outputPath": "C:\\Users\\William\\source\\repos\\testPerSoft\\Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\William\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -152,11 +152,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\William\\source\\repos\\TestMilerCarRental\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\William\\source\\repos\\TestMilerCarRental\\Domain\\Domain.csproj"
+              "C:\\Users\\William\\source\\repos\\testPerSoft\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\William\\source\\repos\\testPerSoft\\Domain\\Domain.csproj"
               },
-              "C:\\Users\\William\\source\\repos\\TestMilerCarRental\\Infraestructure\\Infraestructure.csproj": {
-                "projectPath": "C:\\Users\\William\\source\\repos\\TestMilerCarRental\\Infraestructure\\Infraestructure.csproj"
+              "C:\\Users\\William\\source\\repos\\testPerSoft\\Infraestructure\\Infraestructure.csproj": {
+                "projectPath": "C:\\Users\\William\\source\\repos\\testPerSoft\\Infraestructure\\Infraestructure.csproj"
               }
             }
           }
@@ -190,14 +190,14 @@
         }
       }
     },
-    "C:\\Users\\William\\source\\repos\\TestMilerCarRental\\TestMilerCarRental\\TestMilesCarRental.csproj": {
+    "C:\\Users\\William\\source\\repos\\testPerSoft\\TestMilerCarRental\\TestMilesCarRental.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\William\\source\\repos\\TestMilerCarRental\\TestMilerCarRental\\TestMilesCarRental.csproj",
+        "projectUniqueName": "C:\\Users\\William\\source\\repos\\testPerSoft\\TestMilerCarRental\\TestMilesCarRental.csproj",
         "projectName": "TestMilesCarRental",
-        "projectPath": "C:\\Users\\William\\source\\repos\\TestMilerCarRental\\TestMilerCarRental\\TestMilesCarRental.csproj",
+        "projectPath": "C:\\Users\\William\\source\\repos\\testPerSoft\\TestMilerCarRental\\TestMilesCarRental.csproj",
         "packagesPath": "C:\\Users\\William\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\William\\source\\repos\\TestMilerCarRental\\TestMilerCarRental\\obj\\",
+        "outputPath": "C:\\Users\\William\\source\\repos\\testPerSoft\\TestMilerCarRental\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\William\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -214,11 +214,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\William\\source\\repos\\TestMilerCarRental\\Infraestructure\\Infraestructure.csproj": {
-                "projectPath": "C:\\Users\\William\\source\\repos\\TestMilerCarRental\\Infraestructure\\Infraestructure.csproj"
+              "C:\\Users\\William\\source\\repos\\testPerSoft\\Infraestructure\\Infraestructure.csproj": {
+                "projectPath": "C:\\Users\\William\\source\\repos\\testPerSoft\\Infraestructure\\Infraestructure.csproj"
               },
-              "C:\\Users\\William\\source\\repos\\TestMilerCarRental\\Service\\Service.csproj": {
-                "projectPath": "C:\\Users\\William\\source\\repos\\TestMilerCarRental\\Service\\Service.csproj"
+              "C:\\Users\\William\\source\\repos\\testPerSoft\\Service\\Service.csproj": {
+                "projectPath": "C:\\Users\\William\\source\\repos\\testPerSoft\\Service\\Service.csproj"
               }
             }
           }

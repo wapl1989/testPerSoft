@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "y7xxh4P9PHxSkLjqS/k7q17lni1QC5QMJL4BO3OpQ110vVmLefz42E1zeB2UePZWwCspWrXQQ/wDGeG2rVxuOQ==",
+  "dgSpecHash": "DR+g3sYlRviZUg06I9HbPhmdunGMZ5ddTnuxbeA7umyIWBaFBmMC56yLEgFSjt/TwAZMDHNNDQR8jSNyPbWEPQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\William\\source\\repos\\TestMilerCarRental\\Infraestructure\\Infraestructure.csproj",
+  "projectFilePath": "C:\\Users\\William\\source\\repos\\testPerSoft\\Infraestructure\\Infraestructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\William\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\William\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

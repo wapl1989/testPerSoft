@@ -3496,11 +3496,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\William\\source\\repos\\TestMilerCarRental\\TestMilerCarRental\\TestMilesCarRental.csproj",
+      "projectUniqueName": "C:\\Users\\William\\source\\repos\\testPerSoft\\TestMilerCarRental\\TestMilesCarRental.csproj",
       "projectName": "TestMilesCarRental",
-      "projectPath": "C:\\Users\\William\\source\\repos\\TestMilerCarRental\\TestMilerCarRental\\TestMilesCarRental.csproj",
+      "projectPath": "C:\\Users\\William\\source\\repos\\testPerSoft\\TestMilerCarRental\\TestMilesCarRental.csproj",
       "packagesPath": "C:\\Users\\William\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\William\\source\\repos\\TestMilerCarRental\\TestMilerCarRental\\obj\\",
+      "outputPath": "C:\\Users\\William\\source\\repos\\testPerSoft\\TestMilerCarRental\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\William\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3517,11 +3517,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\William\\source\\repos\\TestMilerCarRental\\Infraestructure\\Infraestructure.csproj": {
-              "projectPath": "C:\\Users\\William\\source\\repos\\TestMilerCarRental\\Infraestructure\\Infraestructure.csproj"
+            "C:\\Users\\William\\source\\repos\\testPerSoft\\Infraestructure\\Infraestructure.csproj": {
+              "projectPath": "C:\\Users\\William\\source\\repos\\testPerSoft\\Infraestructure\\Infraestructure.csproj"
             },
-            "C:\\Users\\William\\source\\repos\\TestMilerCarRental\\Service\\Service.csproj": {
-              "projectPath": "C:\\Users\\William\\source\\repos\\TestMilerCarRental\\Service\\Service.csproj"
+            "C:\\Users\\William\\source\\repos\\testPerSoft\\Service\\Service.csproj": {
+              "projectPath": "C:\\Users\\William\\source\\repos\\testPerSoft\\Service\\Service.csproj"
             }
           }
         }

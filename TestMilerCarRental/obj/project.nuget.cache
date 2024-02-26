@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pLvQ1nk7+P3XvVsSxBB6F3Se7OJHInWdgpMyboFE5QYzyJg8ZWGc4omGfNwJPvsesr2uBjHeKaAe+ZIIi2hHXQ==",
+  "dgSpecHash": "RI7QkM15S7zh1Nomqt1MEtptdUwhY+Zoz4z4mUF4xsLnZAoV3uAf3MflgSvbMjRl4EaMj5ykMccQn19uMuQu0g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\William\\source\\repos\\TestMilerCarRental\\TestMilerCarRental\\TestMilesCarRental.csproj",
+  "projectFilePath": "C:\\Users\\William\\source\\repos\\testPerSoft\\TestMilerCarRental\\TestMilesCarRental.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\William\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\William\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
